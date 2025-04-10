@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am MtMatt
 
 <!--
 **mtmatt/mtmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+
+![MtMatt's GitHub Statistics](https://raw.githubusercontent.com/mtmatt/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![Languages Used](https://raw.githubusercontent.com/mtmatt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
